@@ -1,0 +1,23 @@
+1. install git
+
+2.for declare git user and email ues this commands line
+   git config --global user.name "Myo Htet"
+   git config --global user.email "myohtetcu2021@gmail.com"
+
+3.git init  ---this project is used git to declare ---
+  git add . add file to the git
+  git commit -m "qualy"
+  git push origin master ))
+  git status show whate file and change and  whate file is updated
+  
+git configl 
+((incoming change)) is uploaded to the github
+current
+((current change)) is now changes file
+
+4. add people to the respo
+       ----- setting and ((manage access))-----
+
+5. git checkout -b dev ---create dev branch ---
+
+6. git branch -d devl  ---delete devl branch ---
