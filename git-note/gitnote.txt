@@ -10,7 +10,7 @@
   git push origin master ))
   git status show whate file and change and  whate file is updated
   
-git configl 
+git config
 ((incoming change)) is uploaded to the github
 current
 ((current change)) is now changes file
@@ -21,3 +21,6 @@ current
 5. git checkout -b dev ---create dev branch ---
 
 6. git branch -d devl  ---delete devl branch ---
+
+ 
+   
