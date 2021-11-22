@@ -1,0 +1,6 @@
+Plugin 
+ 1. <<<Classic Editor>>> plugin require
+ 2.<<<All in one migration>>> plugin require for another project export and import this is 40M can be upload
+ 3. <<All in one migration unlimted>> plugin  require
+ 4. <<MW pagenavi>>  plugin for pagniation
+ 5. <<MW WP Form>> plugin required for send email
